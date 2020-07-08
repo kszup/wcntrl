@@ -2,8 +2,8 @@
 # coding=utf-8
 """This script visualizes caloric intake."""
 
-# wcontrol.py - Caloric intake visualized in terminal
-# https://github.szup/wcontrol
+# wcntrl.py - Caloric intake visualized in terminal
+# https://github.com/kszup/wcntrl.git
 
 import helper as h
 
