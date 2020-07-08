@@ -28,6 +28,6 @@ The script will sum up the total calories per date and then display a graph in t
 20200708: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 737.00
 ```
 ## References
-https://dev.to/petercour/draws-graphs-in-the-terminal-with-python-31cg
-https://computingforgeeks.com/termgraph-command-line-tool-draw-graphs-in-terminal-linux/
-https://stackoverflow.com/questions/56360610/sum-column-based-on-another-column-in-pandas-dataframe
+- https://dev.to/petercour/draws-graphs-in-the-terminal-with-python-31cg
+- https://computingforgeeks.com/termgraph-command-line-tool-draw-graphs-in-terminal-linux/
+- https://stackoverflow.com/questions/56360610/sum-column-based-on-another-column-in-pandas-dataframe
