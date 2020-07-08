@@ -39,7 +39,6 @@ date,item,calories
 20200708,coffee milk,80
 20200708,slice whole grain bread,81
 20200708,slice whole grain bread,81
-20200708,cottage cheese, 100
-20200708,raddish,2
-20200708,green onion,5
-
+20200708,cheese, 113
+20200708,ham,70
+20200708,cucumber slices, 10
