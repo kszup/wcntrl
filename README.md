@@ -1,4 +1,8 @@
-Requires python 3.6.10, pandas 1.x, colorama, termgraph
+Built on:
+  python v3.6.10, 
+  pandas v1.0.5, 
+  colorama v0.4.3, 
+  termgraph v0.4.2
 
 
 
