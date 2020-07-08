@@ -43,3 +43,8 @@ date,item,calories
 20200708,ham,70
 20200708,cucumber slices, 10
 20200708,chips,160
+20200708,rice, 200
+20200708,cucumber slices, 15
+20200708,pork w/dressing, 150
+20200708,beer,200
+20200708,cake,250
