@@ -42,3 +42,4 @@ date,item,calories
 20200708,cheese, 113
 20200708,ham,70
 20200708,cucumber slices, 10
+20200708,chips,160
