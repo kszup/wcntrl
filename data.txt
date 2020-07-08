@@ -34,9 +34,12 @@ date,item,calories
 20200707,chips,160
 20200707,beer,200
 20200708,coffee milk,80
+20200708,oatmeal,158
+20200708,honey (tbsp),64
 20200708,coffee milk,80
 20200708,slice whole grain bread,81
 20200708,slice whole grain bread,81
 20200708,cottage cheese, 100
 20200708,raddish,2
 20200708,green onion,5
+
