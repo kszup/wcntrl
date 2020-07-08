@@ -1,0 +1,42 @@
+date,item,calories
+20200706,coffee milk,80
+20200706,coffee milk,80
+20200706,slice whole grain bread,81
+20200706,slice whole grain bread,81
+20200706,egg,70
+20200706,cheese,113
+20200706,butter(0.5tbsp),100
+20200706,tortilla chips,100
+20200706,spinach,40
+20200706,cottage cheese, 100
+20200706,raddish,2
+20200706,green onion,5
+20200706,apple,110
+20200706,dinner,300
+20200706,cake,250
+20200706,chips,160
+20200707,coffee milk,80
+20200707,coffee milk,80
+20200707,slice whole grain bread,81
+20200707,slice whole grain bread,81
+20200707,cottage cheese, 100
+20200707,raddish,2
+20200707,green onion,5
+20200707,cake,250
+20200707,chips,160
+20200707,ginger ale (sm),60
+20200707,slice whole grain bread,81
+20200707,slice whole grain bread,81
+20200707,cheese,113
+20200707,spinach,40
+20200707,mayo,90
+20200707,cake,250
+20200707,chips,160
+20200707,beer,200
+20200708,coffee milk,80
+20200708,coffee milk,80
+20200708,slice whole grain bread,81
+20200708,slice whole grain bread,81
+20200708,cottage cheese, 100
+20200708,raddish,2
+20200708,green onion,5
