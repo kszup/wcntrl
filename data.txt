@@ -50,3 +50,9 @@ date,item,calories
 20200709,coffee milk,80
 20200709,oatmeal,158
 20200709,honey (tbsp),64
+20200709,slice whole grain bread,81
+20200709,slice whole grain bread,81
+20200709,cheese,113
+20200709,spinach,40
+20200709,ham,70
+20200709,mayo,90
