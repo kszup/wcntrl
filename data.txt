@@ -56,3 +56,5 @@ date,item,calories
 20200709,spinach,40
 20200709,ham,70
 20200709,mayo,90
+20200709,ginger ale (sm),60
+20200709,pistachios (cup),160
