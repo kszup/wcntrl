@@ -15,6 +15,7 @@ date,item,calories
 20200706,dinner,300
 20200706,cake,250
 20200706,chips,160
+
 20200707,coffee milk,80
 20200707,coffee milk,80
 20200707,slice whole grain bread,81
@@ -33,6 +34,7 @@ date,item,calories
 20200707,cake,250
 20200707,chips,160
 20200707,beer,200
+
 20200708,coffee milk,80
 20200708,oatmeal,158
 20200708,honey (tbsp),64
@@ -47,6 +49,8 @@ date,item,calories
 20200708,cucumber slices, 15
 20200708,pork w/dressing, 150
 20200708,cake,250
+
+20200709,coffee milk,80
 20200709,coffee milk,80
 20200709,oatmeal,158
 20200709,honey (tbsp),64
@@ -58,3 +62,19 @@ date,item,calories
 20200709,mayo,90
 20200709,ginger ale (sm),60
 20200709,pistachios (cup),160
+20200709,pork w/dressing, 150
+20200709,cucumber slices, 15
+20200709,beer,200
+20200709,rice, 200
+20200709,apple,110
+
+20200710,coffee milk,80
+20200710,coffee milk,80
+20200710,slice whole grain bread,81
+20200710,slice whole grain bread,81
+20200710,peanut butter (2tbsp),188
+20200710,jam(tbsp),56
+20200710,cottage cheese, 100
+20200710,raddish,2
+20200710,raddish,2
+20200710,green onion,5
