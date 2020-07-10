@@ -61,7 +61,7 @@ date,item,calories
 20200709,ham,70
 20200709,mayo,90
 20200709,ginger ale (sm),60
-20200709,pistachios (cup),160
+20200709,pistachios (0.5cup),160
 20200709,pork w/dressing, 150
 20200709,cucumber slices, 15
 20200709,beer,200
@@ -78,3 +78,5 @@ date,item,calories
 20200710,raddish,2
 20200710,raddish,2
 20200710,green onion,5
+20200710,slice whole grain bread,81
+20200710,pistachios (0.5cup),160
