@@ -2,7 +2,7 @@
 Quick way to visualize caloric intake.
 
 ## Motivation
-Learning to use Python 3 with pandas, and termgraph.
+Learning to use Python 3 with pandas, and termgraph, in addition to practicing vim commands. 
 
 ## Dependencies 
 This project uses Python 3.6.10 with the following modules
@@ -10,10 +10,10 @@ This project uses Python 3.6.10 with the following modules
 - colorama v0.4.3
 - termgraph v0.4.2
 
-wctrl.py also utilizes helper.py to split out functionality.
+wctrl.py also utilizes helper.py to split out functionality. Maybe I'll make these functions more generic for other project use.
 
 ## Overview
-Currently, the script reads in a file named 'data.txt' that starts with 'date,item,calories' on the first line. Below is a sample for data.txt.
+Currently, the script reads in a file named 'data.txt'. Below is a sample for data.txt (must have 'date,item,calories` on first line.)
 ```
 date,item,calories
 20200708,oatmeal,160
