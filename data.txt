@@ -80,3 +80,10 @@ date,item,calories
 20200710,green onion,5
 20200710,slice whole grain bread,81
 20200710,pistachios (0.5cup),160
+20200710,pork w/dressing, 150
+20200710,cucumber slices, 15
+20200710,beer,200
+20200710,rice, 200
+20200710,beer,200
+20200710,beer,200
+20200710,beer,200
