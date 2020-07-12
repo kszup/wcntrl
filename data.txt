@@ -87,3 +87,37 @@ date,item,calories
 20200710,beer,200
 20200710,beer,200
 20200710,beer,200
+
+20200711,granola bar,170
+20200711,coffee milk,80
+20200711,coffee milk,80
+20200711,slice whole grain bread,81
+20200711,slice whole grain bread,81
+20200711,slice whole grain bread,81
+20200711,tortillas (2),100
+20200711,tortillas (2),100
+20200711,cheese,113
+20200711,spinach,40
+20200711,ham,70
+20200711,mayo,90
+20200711,cheese,113
+20200711,cheese,113
+20200711,peach,59
+20200711,dinner,500
+20200711,beer,200
+
+20200712,granola bar,170
+20200712,coffee milk,80
+20200712,coffee milk,80
+20200712,slice whole grain bread,81
+20200712,slice whole grain bread,81
+20200712,slice whole grain bread,81
+20200712,slice whole grain bread,81
+20200712,cheese,113
+20200712,cheese,113
+20200712,ham,70
+20200712,ham,70
+20200712,peach,59
+20200712,butter(0.5tbsp),100
+20200712,butter(0.5tbsp),100
+
