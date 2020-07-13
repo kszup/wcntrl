@@ -120,4 +120,20 @@ date,item,calories
 20200712,peach,59
 20200712,butter(0.5tbsp),100
 20200712,butter(0.5tbsp),100
+20200712,dinner,500
 
+20200713,granola bar,170
+20200713,oatmeal,158
+20200713,coffee milk,80
+20200713,coffee milk,80
+20200713,slice whole grain bread,81
+20200713,slice whole grain bread,81
+20200713,slice whole grain bread,81
+20200713,slice whole grain bread,81
+20200713,cheese,113
+20200713,cheese,113
+20200713,ham,70
+20200713,ham,70
+20200713,peach,59
+20200713,arugula,5
+20200713,apple,110
