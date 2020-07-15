@@ -137,3 +137,25 @@ date,item,calories
 20200713,peach,59
 20200713,arugula,5
 20200713,apple,110
+20200713,granola bar,170
+20200713,hello fresh dinner,500
+20200713,ginger ale (sm),60
+
+20200714,granola bar,170
+20200714,oatmeal,158
+20200714,coffee milk,80
+20200714,coffee milk,80
+20200714,slice whole grain bread,81
+20200714,slice whole grain bread,81
+20200714,cheese,113
+20200714,peach,59
+20200714,arugula,5
+20200714,apple,110
+20200714,granola bar,170
+20200714,hello fresh dinner,500
+20200714,cottage cheese, 100
+20200714,raddish,2
+20200714,raddish,2
+20200714,green onion,5
+20200714,pistachios (0.5cup),160
+20200714,chips,300
