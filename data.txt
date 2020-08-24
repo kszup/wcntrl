@@ -3,3 +3,6 @@ date,item,calories
 20200824,coffee milk,80
 20200824,cereal milk,140
 20200824,life cereal, 160
+
+20200825,coffee milk,80
+20200825,coffee milk,80
