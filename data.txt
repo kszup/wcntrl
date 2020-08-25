@@ -12,7 +12,7 @@ date,item,calories
 20200824,corn tortilla chips,160
 20200824,cranberry juice with water, 60
 20200824,beef stroganoff,230
-20200824,buckwheat,343
+20200824,buckwheat bag,280
 20200824,chocolate,100
 
 20200825,coffee milk,80
