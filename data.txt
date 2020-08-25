@@ -2,7 +2,18 @@ date,item,calories
 20200824,coffee milk,80
 20200824,coffee milk,80
 20200824,cereal milk,140
-20200824,life cereal, 160
+20200824,life cereal,160
+20200824,slice whole grain bread,81
+20200824,slice whole grain bread,81
+20200824,mayo,90
+20200824,cheese,113
+20200824,lettuce,17
+20200824,tomato,22
+20200824,corn tortilla chips,160
+20200824,cranberry juice with water, 60
+20200824,beef stroganoff,230
+20200824,buckwheat,343
+20200824,chocolate,100
 
 20200825,coffee milk,80
 20200825,coffee milk,80
