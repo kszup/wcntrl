@@ -1,4 +1,0 @@
-20200706,coffeeMilk,50,yogurt,120,bonMe,500,potatoChips,150,banana,105,banana,105
-20200707,coffeeMilk,50,yogurt,120,bonMe,500,potatoChips,150+banana.105
-20200708,coffeeMilk,50,yogurt,120,bonMe,500,potatoChips,150
-20200709,yogurt,120,potatoChips,150,banana,105
