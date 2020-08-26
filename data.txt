@@ -24,3 +24,13 @@ date,item,calories
 20200825,hummus (3tbsp),75
 20200825,corn tortilla chips,160
 20200825,granola bar, 150
+20200825,Indian,450
+20200825,Indian,450
+
+20200826,coffee milk,80
+20200826,coffee milk,80
+20200826,life cereal,160
+20200826,granola (0.5cup),160
+20200826,yogurt (0.5cup),75
+20200826,pistachios (0.5cup),160
+20200826,Indian,450
