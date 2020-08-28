@@ -12,7 +12,7 @@ def total_calories(data):
 
 def cal_plotter(totals,limit):
     # Add arguments for termgraph to plot graph
-    args = {'filename': '', 'title': None, 'width': 50,
+    args = {'filename': '', 'title': None, 'width': 40, 
             'format': '{:<5.2f}', 'suffix': '', 'no_labels': False,
             'color': None, 'vertical': False, 'stacked': True, 'histogram': False,
             'different_scale': False, 'calendar': False, 'start_dt': None, 

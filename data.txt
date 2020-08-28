@@ -33,4 +33,24 @@ date,item,calories
 20200826,granola (0.5cup),160
 20200826,yogurt (0.5cup),75
 20200826,pistachios (0.5cup),160
+20200826,peach,59
 20200826,Indian,450
+20200826,Indian,450
+
+20200827,coffee milk,80
+20200827,life cereal,160
+20200827,granola (0.5cup),160
+20200827,yogurt (0.5cup),75
+20200827,pistachios (0.5cup),160
+20200827,Indian,450
+20200827,Indian,450
+20200827,beer,200
+
+20200828,coffee milk,80
+20200828,life cereal,160
+20200828,milk,160
+20200828,banana,105
+20200828,hummus (3tbsp),75
+20200828,cucumber slices, 15
+20200828,pita chips, 200
+20200828,Indian,450
