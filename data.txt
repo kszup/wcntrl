@@ -54,3 +54,16 @@ date,item,calories
 20200828,cucumber slices, 15
 20200828,pita chips, 200
 20200828,Indian,450
+20200828,wine,120
+20200828,wine,120
+20200828,beer,200
+20200828,pizza,500
+
+20200829,coffee milk,80
+20200829,life cereal,160
+20200829,milk,160
+20200829,banana,105
+20200829,hummus (3tbsp),75
+20200829,cucumber slices, 15
+20200829,pita chips, 200
+20200829,pizza,500
